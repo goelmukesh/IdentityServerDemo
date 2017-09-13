@@ -1,0 +1,22 @@
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.deps.json
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.runtimeconfig.json
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.runtimeconfig.dev.json
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.dll
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.csprojResolveAssemblyReference.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.csproj.CoreCompileInputs.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.AssemblyInfoInputs.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.AssemblyInfo.cs
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.pdb
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.dll
+C:\StackVMData\NTL\MVC Core\Identity_Official\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.pdb
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.deps.json
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.runtimeconfig.json
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.runtimeconfig.dev.json
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.dll
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\bin\Debug\netcoreapp1.1\Identity_Official.pdb
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.csprojResolveAssemblyReference.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.csproj.CoreCompileInputs.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.AssemblyInfoInputs.cache
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.AssemblyInfo.cs
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.dll
+C:\StackVMData\NTL\MVC Core\Identity_Official - Copy\Identity_Official\obj\Debug\netcoreapp1.1\Identity_Official.pdb
